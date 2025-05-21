@@ -9,9 +9,9 @@ This page contains all active and inactive TSC members.
 
 ### Current Chair
 
-| Name |
-| ---- | 
-| To be voted on |
+| Name | Organization | Github Handle |
+| ---- | ------------ | --------- |
+| To be voted on | | |
 
 ### Chair History
 
@@ -22,6 +22,6 @@ This page contains all active and inactive TSC members.
 | Sebastian Wennemers | SAP SE | [swennemers](https://github.com/swennemers) |
 | Pavel Kornev        | SAP SE | [pavelkornev](https://github.com/pavelkornev) |
 | Kiril Kabakchiev    | SAP SE | [KirilKabakchiev](https://github.com/KirilKabakchiev) |
-| Dhawal Joshi        | SAP SE | 
+| Dhawal Joshi        | SAP SE | [Dhawal-Joshi](https://github.com/Dhawal-Joshi) |
 
 ## Emeritus Members
