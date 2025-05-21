@@ -10,8 +10,7 @@ This page contains all active and inactive TSC members.
 ### Current Chair
 | Name |
 | ---- | 
-| Simon Heimler |
-
+| Simon Heimler | SAP SE | [Fannon](https://github.com/Fannon) |
 ### Chair History
 
 ### All Voting Members
@@ -19,7 +18,7 @@ This page contains all active and inactive TSC members.
 | ---- | ------------ | --------- |
 | Sebastian Wennemers | SAP SE | [swennemers](https://github.com/swennemers) |
 | Pavel Kornev        | SAP SE | [pavelkornev](https://github.com/pavelkornev) |
-| Kiril Kabakchiev | SAP SE | [KirilKabakchiev](https://github.com/KirilKabakchiev) |
-| Dhawal Joshi | SAP SE | 
+| Kiril Kabakchiev    | SAP SE | [KirilKabakchiev](https://github.com/KirilKabakchiev) |
+| Dhawal Joshi        | SAP SE | 
 
 ## Emeritus Members
