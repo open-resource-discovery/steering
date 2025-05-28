@@ -1,0 +1,43 @@
+name: TAC Meeting Agenda Proposal
+description: Template for proposing an agenda item at a Technical Advisory Council meeting.
+title: "[TAC Agenda Request]: - Request Title"
+labels: ["tac-agenda-request"]
+assignees:
+  - Fannon
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to request to add an agenda item to a Technical Advisory Council meeting. Please note that you must be available to present your proposal at the meeting.
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: topic-idea
+    attributes:
+      label: Agenda Item Description
+      description: Describe the agenda item you would like to have discussed.
+    validations:
+      required: true
+  - type: checkboxes
+    id: time
+    attributes:
+      label: Time Requirements
+      description: How much time you do expect it takes to discuss your agenda item at the TAC meeting?
+      options:
+        - label: Less than 20 minutes
+        - label: More than 20 minutes
+          required: true    
+  - type: checkboxes
+    id: attendance
+    attributes:
+      label: Attendance
+      description: Are you available to present your agenda item at a TAC meeting?
+      options:
+        - label: I am available to present the agenda item.
+          required: true
