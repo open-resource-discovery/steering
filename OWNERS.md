@@ -11,7 +11,7 @@ This page contains all active and inactive TSC members.
 
 | Name | Organization | Github Handle |
 | ---- | ------------ | --------- |
-| To be voted on | | |
+| Simon Heimler       | SAP SE | [Fannon](https://github.com/Fannon) |
 
 ### Chair History
 
