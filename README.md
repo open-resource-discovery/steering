@@ -10,6 +10,8 @@ ORD is an open-source standard, contributed to the [Linux Foundation](https://ww
 
 For now, an invitation to the meeting is required, please contact the TSC Chair to get an invitation, see [OWNERS.md](./OWNERS.md).
 
+Meeting Notes can be found in the [./meeting-notes](./meeting-notes/) folder.
+
 ### Technical Steering Committee (STC)
 
 The voting members and the chair are listed under [OWNERS.md](./OWNERS.md).
