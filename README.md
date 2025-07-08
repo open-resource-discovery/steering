@@ -4,7 +4,7 @@ This repository contains information about the Open Resource Discovery Steering 
 
 ORD is an open-source standard, contributed to the [Linux Foundation](https://www.linuxfoundation.org/) under the [NeoNephos Foundation](https://neonephos.org/) community.
 
-### Meetings
+## Meetings
 
 > We'll host public monthly steering meetings, links and dates to be announced.
 
@@ -12,8 +12,12 @@ For now, an invitation to the meeting is required, please contact the TSC Chair 
 
 Meeting Notes can be found in the [./meeting-notes](./meeting-notes/) folder.
 
-### Technical Steering Committee (STC)
+## Technical Steering Committee (TSC)
 
 The voting members and the chair are listed under [OWNERS.md](./OWNERS.md).
 
 For more information, see [Project Charter](./CHARTER.md) and the [GOVERNANCE.md](./GOVERNANCE.md) pages.
+
+## Licensing
+
+Copyright 2025 SAP SE or an SAP affiliated Company and open-resource-discovery/steering contributors.
