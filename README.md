@@ -12,7 +12,7 @@ For now, an invitation to the meeting is required, please contact the TSC Chair 
 
 Meeting Notes can be found in the [./meeting-notes](./meeting-notes/) folder.
 
-## Technical Steering Committee (STC)
+## Technical Steering Committee (TSC)
 
 The voting members and the chair are listed under [OWNERS.md](./OWNERS.md).
 
