@@ -26,3 +26,12 @@ This page contains all active and inactive TSC members.
 | Dhawal Joshi        | SAP SE | [Dhawal-Joshi](https://github.com/Dhawal-Joshi) |
 
 ## Emeritus Members
+
+## Security Officers
+
+| Name | Organization | Github Handle |
+| ---- | ------------ | --------- |
+| Pavel Kornev        | SAP SE | [pavelkornev](https://github.com/pavelkornev) |
+
+For security issues, please contact one of the listed security officers directly via email.
+
