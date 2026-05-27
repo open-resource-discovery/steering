@@ -20,4 +20,4 @@ For more information, see [Project Charter](./CHARTER.md) and the [GOVERNANCE.md
 
 ## Licensing
 
-Copyright 2025 SAP SE or an SAP affiliated Company and open-resource-discovery/steering contributors.
+Copyright 2026 SAP SE or an SAP affiliated Company and open-resource-discovery/steering contributors.
