@@ -1,7 +1,7 @@
-# Owners (Template)
+# Owners
 
-- See [CONTRIBUTING.md](placeholder) for general contribution guidelines.
-- See [GOVERNANCE.md](placeholder) for governance guidelines and maintainer responsibilities
+- See [CONTRIBUTING.md](./CONTRIBUTING.md) for general contribution guidelines.
+- See [GOVERNANCE.md](./GOVERNANCE.md) for governance guidelines and maintainer responsibilities.
 
 This page contains all active and inactive TSC members.
 
@@ -34,4 +34,3 @@ This page contains all active and inactive TSC members.
 | Pavel Kornev        | SAP SE | [pavelkornev](https://github.com/pavelkornev) |
 
 For security issues, please contact one of the listed security officers directly via email.
-
