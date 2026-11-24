@@ -2,9 +2,9 @@
 
 ## Code of Conduct
 
-All members of the project community must abide by the [SAP Open Source Code of Conduct](https://github.com/SAP/.github/blob/main/CODE_OF_CONDUCT.md).
+All members of the project community must abide by the [Open Resource Discovery Code of Conduct](https://github.com/open-resource-discovery/.github/blob/main/CODE_OF_CONDUCT.md).
 Only by respecting each other we can develop a productive, collaborative community.
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting [a project maintainer](.reuse/dep5).
+Report abusive, harassing, or otherwise unacceptable behavior confidentially as described in the [organization's Code of Conduct](https://github.com/open-resource-discovery/.github/blob/main/CODE_OF_CONDUCT.md). Do not submit incident reports through public GitHub issues.
 
 ## Engaging in Our Project
 
