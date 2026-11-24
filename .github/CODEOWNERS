@@ -1,4 +1,4 @@
 *       @Fannon @swennemers @pavelkornev
 
-# Review owners for CI and build configuration.
+# Review owners for repository configuration and issue templates.
 /.github/ @open-resource-discovery/steering-team

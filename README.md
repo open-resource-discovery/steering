@@ -18,6 +18,13 @@ The voting members and the chair are listed under [OWNERS.md](./OWNERS.md).
 
 For more information, see [Project Charter](./CHARTER.md) and the [GOVERNANCE.md](./GOVERNANCE.md) pages.
 
+## Repository Automation
+
+GitHub Actions are intentionally disabled for this repository.
+It contains governance documents and meeting notes, with no build, test, publishing, or deployment pipeline to run.
+Changes are reviewed through pull requests, so no Actions workflows or Actions dependency updates are maintained.
+Any proposal to enable GitHub Actions should document the automation need for maintainer review.
+
 ## Licensing
 
 Copyright 2026 SAP SE or an SAP affiliated Company and open-resource-discovery/steering contributors.
